@@ -1,6 +1,6 @@
 # Repositório de Exercícios - Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Gustavo Lima](https://www.linkedin.com/in/lima-gus/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[mim](https://www.linkedin.com/in/lima-gus/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
 > "São mais de 1500 horas de formação que aborda fundamentos de desenvolvimento web, front-end, back-end, ciência da computação, metodologias ágeis e habilidades comportamentais."
 
@@ -8,13 +8,13 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ##### Bloco 1: Unix & Bash
 
-- [ ] 1-3: _Unix & Bash - Parte 1_
-- [ ] 1-4: _Unix & Bash - Parte 2_
+- [x] 1-3: _Unix & Bash - Parte 1_
+- [x] 1-4: _Unix & Bash - Parte 2_
 
 ##### Bloco 2: Git & GitHub
 
-- [ ] 2-1: _O que é e para que serve?_
-- [ ] 2-2: _Entendendo os comandos_
+- [x] 2-1: _O que é e para que serve?_
+- [x] 2-2: _Entendendo os comandos_
 - [ ] 2-3: _Internet - Entendendo como ela funciona_
 
 ##### Bloco 3: Introdução à HTML & CSS
