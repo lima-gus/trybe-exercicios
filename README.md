@@ -6,12 +6,12 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
-##### Bloco 1: Unix & Bash
+##### Bloco 1: [Unix & Bash](https://github.com/lima-gus/trybe-exercicios/tree/main/01-fundamentos/bloco-01-unix-e-bash)
 
 - [x] 1-3: _Unix & Bash - Parte 1_
 - [x] 1-4: _Unix & Bash - Parte 2_
 
-##### Bloco 2: Git & GitHub
+##### Bloco 2: [Git, GitHub & Internet](https://github.com/lima-gus/trybe-exercicios/tree/main/01-fundamentos/bloco-02-git-github-e-internet)
 
 - [x] 2-1: _O que é e para que serve?_
 - [x] 2-2: _Entendendo os comandos_
