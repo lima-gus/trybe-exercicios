@@ -17,7 +17,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 2-2: _Entendendo os comandos_
 - [x] 2-3: _Internet - Entendendo como ela funciona_
 
-##### Bloco 3: [Introdução à HTML & CSS]()
+##### Bloco 3: [Introdução à HTML & CSS](https://github.com/lima-gus/trybe-exercicios/tree/main/01-fundamentos/bloco-03-introducao-a-html-e-css)
 
 - [x] 3-1: _HTML & CSS - Estruturas de página_
 - [ ] 3-2: _HTML & CSS - Primeiros passos em CSS_
