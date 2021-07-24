@@ -31,3 +31,23 @@ li {
 .bg-pink {
   background-color: pink;
 }
+
+li a:hover {
+  font-weight: bold;
+}
+
+.stackoverflow:hover {
+  color: orange;
+}
+
+.w3schools:hover, .trybe:hover {
+  color: green;
+}
+
+.mdnwd:hover {
+  color: black;
+}
+
+.devdocs:hover {
+  color: yellow;
+}
