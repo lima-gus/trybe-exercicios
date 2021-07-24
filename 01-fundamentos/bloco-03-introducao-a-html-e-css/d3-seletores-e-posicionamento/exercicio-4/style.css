@@ -1,0 +1,53 @@
+ol li{
+  background-color: yellow;
+}
+
+ol .itemPar {
+  color: green;
+  font-weight: bold;
+}
+
+ol .itemImpar {
+  text-transform: uppercase;
+}
+
+h1, h3 {
+  color: red;
+}
+
+h1 {
+  font-size: 40px;
+  border: 1px solid black;
+}
+
+li {
+  font-size: 20px;
+}
+
+.color-blue {
+  color: blue;
+}
+
+.bg-pink {
+  background-color: pink;
+}
+
+li a:hover {
+  font-weight: bold;
+}
+
+.stackoverflow:hover {
+  color: orange;
+}
+
+.w3schools:hover, .trybe:hover {
+  color: green;
+}
+
+.mdnwd:hover {
+  color: black;
+}
+
+.devdocs:hover {
+  color: yellow;
+}
