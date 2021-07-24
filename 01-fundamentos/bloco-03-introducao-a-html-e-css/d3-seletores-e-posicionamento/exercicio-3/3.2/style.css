@@ -1,0 +1,47 @@
+div:hover {
+  border: 1px solid black;
+}
+
+.div-1 {
+  background-color: #036b52;
+}
+
+.div-2 {
+  background-color: #2fc18c;
+}
+
+.div-3 {
+  background-color: #41197f;
+  height: 55px;
+}
+
+.div-4 {
+  background-color: #1a1a1a;
+}
+
+.div-5 {
+  background-color: #006dfb;
+}
+
+.div-1 h3 {
+  color: #2fc18c;
+  font-style: italic;
+}
+
+.div-2 h3 {
+  color: #41197f;
+}
+
+.div-3 h3 {
+  color: #006dfb;
+  font-style: italic;
+}
+
+.div-4 h3 {
+  color: #fff;
+}
+
+.div-5 h3 {
+  color: #1a1a1a;
+  font-style: italic;
+}
