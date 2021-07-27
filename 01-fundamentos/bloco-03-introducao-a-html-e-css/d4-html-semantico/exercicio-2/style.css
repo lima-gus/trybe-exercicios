@@ -7,7 +7,7 @@
 /* HEADER */
 
 header {
-  background-color: #58C3FA;
+  background-color: #286B54;
   padding: 30px;
   text-align: center;
 }
@@ -17,12 +17,14 @@ header {
 /* NAV/MENU */
 
 nav {
-  background-color: #21546A;
+  background-color: #16171B;
+  padding: 25px;
+  text-align: center;
 }
 
 nav li{
-  display: inline-block;
-  padding: 25px;
+  display: inline;
+  padding: 30px;
 }
 
 nav a{
@@ -31,12 +33,17 @@ nav a{
 }
 
 nav a:hover {
-  color: #58C3FA;
+  color: #286B54;
 }
 
 /* NAV/MENU */
 
-/* BODY/MAIN */
+/* BODY/MAIN/ASIDE */
+
+body {
+  background-color: #286B54;
+  color: #fff;
+}
 
 main {
   max-width: 1200px;
@@ -52,16 +59,12 @@ img {
   max-width: 300px;
 }
 
-section {
-
-}
-
 aside {
   float: right;
   width: 35%;
 }
 
-/* BODY/MAIN */
+/* BODY/MAIN/ASIDE */
 
 /* FOOTER */ 
 
@@ -69,13 +72,14 @@ footer {
   clear: both;
   text-align: center;
   padding: 30px 0;
+  background-color: #16171B;
 }
 
 footer a {
-  color: #3466C2;
+  color: #689F38;
   text-decoration: none;
 }
 
 footer a:hover {
-  color: #58C3FA;
+  color: #4DC18B;
 }
