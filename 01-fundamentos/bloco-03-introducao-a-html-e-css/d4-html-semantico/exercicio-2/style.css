@@ -38,7 +38,7 @@ nav a:hover {
 
 /* NAV/MENU */
 
-/* BODY/MAIN/ASIDE */
+/* BODY/MAIN */
 
 body {
   background-color: #286B54;
@@ -50,13 +50,45 @@ main {
   margin: auto;
 }
 
+main h3 {
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
+main p {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+table td {
+  font-size: 20px;
+  text-align: center;
+  border: 2px dashed #16171B;
+}
+
+table {
+  margin-bottom: 15px;
+    border: 2px solid #689F38;
+}
+/* BODY/MAIN */
+
+/* ARTICLE/SECTION/ASIDE */
+
 article {
   float: left;
   width: 55%;
 }
 
+article h2 {
+  font-size: 35px;
+  margin: 35px 0;
+  text-align: center;
+}
+
 img {
   max-width: 300px;
+  border-radius: 10px;
+  margin-bottom: 15px;
 }
 
 aside {
@@ -64,7 +96,11 @@ aside {
   width: 35%;
 }
 
-/* BODY/MAIN/ASIDE */
+aside h3 {
+  margin: 35px 0;
+}
+
+/* ARTICLE/SECTION/ASIDE */
 
 /* FOOTER */ 
 
