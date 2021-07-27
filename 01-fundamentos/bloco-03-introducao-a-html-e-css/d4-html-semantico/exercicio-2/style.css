@@ -14,3 +14,24 @@ header {
 
 /* HEADER */
 
+/* NAV/MENU */
+
+nav {
+  background-color: #21546A;
+}
+
+nav li{
+  display: inline-block;
+  padding: 25px;
+  list-style: none;
+}
+
+nav a{
+  color: #fff;
+}
+
+nav a:hover {
+  color: #58C3FA;
+}
+
+/* NAV/MENU */
