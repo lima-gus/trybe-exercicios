@@ -7,7 +7,7 @@
 /* HEADER */
 
 header {
-  background-color: #58C3FA;
+  background-color: #286B54;
   padding: 30px;
   text-align: center;
 }
@@ -17,12 +17,14 @@ header {
 /* NAV/MENU */
 
 nav {
-  background-color: #21546A;
+  background-color: #16171B;
+  padding: 25px;
+  text-align: center;
 }
 
 nav li{
-  display: inline-block;
-  padding: 25px;
+  display: inline;
+  padding: 30px;
 }
 
 nav a{
@@ -31,29 +33,62 @@ nav a{
 }
 
 nav a:hover {
-  color: #58C3FA;
+  color: #286B54;
 }
 
 /* NAV/MENU */
 
 /* BODY/MAIN */
 
+body {
+  background-color: #286B54;
+  color: #fff;
+}
+
 main {
   max-width: 1200px;
   margin: auto;
 }
+
+main h3 {
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
+main p {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+table td {
+  font-size: 20px;
+  text-align: center;
+  border: 2px dashed #16171B;
+}
+
+table {
+  margin-bottom: 15px;
+    border: 2px solid #689F38;
+}
+/* BODY/MAIN */
+
+/* ARTICLE/SECTION/ASIDE */
 
 article {
   float: left;
   width: 55%;
 }
 
-img {
-  max-width: 300px;
+article h2 {
+  font-size: 35px;
+  margin: 35px 0;
+  text-align: center;
 }
 
-section {
-
+img {
+  max-width: 300px;
+  border-radius: 10px;
+  margin-bottom: 15px;
 }
 
 aside {
@@ -61,7 +96,33 @@ aside {
   width: 35%;
 }
 
-/* BODY/MAIN */
+aside h3 {
+  margin: 35px 0;
+}
+
+/* ARTICLE/SECTION/ASIDE */
+
+/* REF */
+
+.ref {
+  margin: 30px 0;
+}
+
+section ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+section ul li a:hover {
+  color: #16171B;
+}
+
+section ul li {
+  list-style: none;
+  margin-bottom: 5px;
+}
+
+/* REF */
 
 /* FOOTER */ 
 
@@ -69,13 +130,14 @@ footer {
   clear: both;
   text-align: center;
   padding: 30px 0;
+  background-color: #16171B;
 }
 
 footer a {
-  color: #3466C2;
+  color: #689F38;
   text-decoration: none;
 }
 
 footer a:hover {
-  color: #58C3FA;
+  color: #4DC18B;
 }
