@@ -1,4 +1,16 @@
 * {
+  padding: 0;
   margin: 0;
   box-sizing: border-box;
 }
+
+/* HEADER */
+
+header {
+  background-color: #58C3FA;
+  padding: 30px;
+  text-align: center;
+}
+
+/* HEADER */
+
