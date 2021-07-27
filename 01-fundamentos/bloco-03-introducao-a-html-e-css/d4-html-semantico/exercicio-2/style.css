@@ -102,6 +102,28 @@ aside h3 {
 
 /* ARTICLE/SECTION/ASIDE */
 
+/* REF */
+
+.ref {
+  margin: 30px 0;
+}
+
+section ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+section ul li a:hover {
+  color: #16171B;
+}
+
+section ul li {
+  list-style: none;
+  margin-bottom: 5px;
+}
+
+/* REF */
+
 /* FOOTER */ 
 
 footer {
