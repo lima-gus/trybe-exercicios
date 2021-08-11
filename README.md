@@ -36,8 +36,8 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 ##### Bloco 5: [JavaScript: DOM, Eventos e Web Storage + Projetos](https://github.com/lima-gus/trybe-exercicios/tree/main/01-fundamentos/bloco-05-javascript-dom-eventos-e-web-storage)
 
 - [x] 5-1: _JavaScript - DOM e seletores_
-- [ ] 5-2: _JavaScript - Trabalhando com elementos_
-- [ ] 5-3: _JavaScript - Eventos_
+- [x] 5-2: _JavaScript - Trabalhando com elementos_
+- [x] 5-3: _JavaScript - Eventos_
 - [ ] 5-4: _JavaScript - Web Storage_
 - [ ] 5-5: _[Projeto - Arte com Pixels]()_
 - [ ] 5-6: _[Projeto - Lista de tarefas]()_
@@ -203,7 +203,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [ ] 28-1: _NodeJS - JWT - (JSON Web Token)_
 - [ ] 28-2: _NodeJS - Upload de Arquivos com 'multer'_
 - [ ] 28-3: _NodeJS - Testando APIs com Testes de Integração_
-- [ ] 28-4: _[Projeto - Cookmaster]()
+- [ ] 28-4: _[Projeto - Cookmaster]()_
 
 ##### Bloco 29: [Deployment]()
 
