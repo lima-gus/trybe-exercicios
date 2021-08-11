@@ -51,21 +51,13 @@ filhoPrimeiroFilhoDoFilho.parentElement.parentElement.nextElementSibling;
 
 //Remova todos os elementos filhos de paiDoPai exceto pai, elementoOndeVoceEsta e primeiroFilhoDoFilho
 
-for (let index = pai.childNodes.length - 1; index >= 0; index -= 1) {
-  const currentChildren = pai.childNodes[index];
-  if (currentChildren.id !== 'elementoOndeVoceEsta') {
-    currentChildren.remove();
-  }
-}
-
-const segundoEUltimoFilhoDoFilho = document.getElementById('segundoEUltimoFilhoDoFilho');
-segundoEUltimoFilhoDoFilho.remove();
-
-// Consulta gabarito Trybe; 
-// TODO terminar o código
-
-/* 
+// TODO corrigir o código
 const naoRemove = ['pai', 'elementoOndeVoceEsta', 'primeiroFilhoDoFilho'];
 
-const childSections = document.querySelectorAll('section');
-*/
+const filterSections = document.querySelectorAll('section');
+
+for (let i = 0; i < filterSections.length; i += 1) {
+  if (filterSections !== naoRemove) {
+    filterSections[i].remove();
+  }
+}
