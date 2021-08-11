@@ -10,9 +10,6 @@ Deve existir apenas um elemento com a classe 'tech'. Como você faz isso?
  Crie uma função que, ao digitar na caixa de texto, altere o texto do elemento
 com a classe 'tech';
 
- Crie uma função que, ao passar o mouse sobre 'Meu top 3 do Spotrybefy', altere
-a cor do mesmo;
-
 Segue abaixo um exemplo do uso de event.target:
 */
 
@@ -23,6 +20,14 @@ redirect.addEventListener('dblclick', redirectPage);
 
 function redirectPage() {
   location.href = "https://www.linkedin.com/in/lima-gus/"
+}
+
+//Requisito 4
+let newColor = document.getElementById('mySpotrybefy');
+newColor.addEventListener('mouseover', changeColor);
+
+function changeColor() {
+  this.style.color = 'cyan';
 }
 
 function resetText(event) {
