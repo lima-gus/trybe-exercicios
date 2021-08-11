@@ -1,5 +1,6 @@
 // Parte 1 
 
+
 //Acesse o elemento elementoOndeVoceEsta.
 document.querySelector('#elementoOndeVoceEsta');
 
@@ -44,7 +45,27 @@ primeiroFilhoDoFilho.appendChild(filhoPrimeiroFilhoDoFilho).id = 'filhoPrimeiroF
 //A partir desse filho criado, acesse terceiroFilho
 filhoPrimeiroFilhoDoFilho.parentElement.parentElement.nextElementSibling;
 
+
 // Parte 3
 
 
 //Remova todos os elementos filhos de paiDoPai exceto pai, elementoOndeVoceEsta e primeiroFilhoDoFilho
+
+for (let index = pai.childNodes.length - 1; index >= 0; index -= 1) {
+  const currentChildren = pai.childNodes[index];
+  if (currentChildren.id !== 'elementoOndeVoceEsta') {
+    currentChildren.remove();
+  }
+}
+
+const segundoEUltimoFilhoDoFilho = document.getElementById('segundoEUltimoFilhoDoFilho');
+segundoEUltimoFilhoDoFilho.remove();
+
+// Consulta gabarito Trybe; 
+// TODO terminar o código
+
+/* 
+const naoRemove = ['pai', 'elementoOndeVoceEsta', 'primeiroFilhoDoFilho'];
+
+const childSections = document.querySelectorAll('section');
+*/
