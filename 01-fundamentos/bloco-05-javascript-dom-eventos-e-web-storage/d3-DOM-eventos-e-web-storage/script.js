@@ -51,3 +51,23 @@ function holidayButton(str) {
 }
 
 holidayButton('Feriados');
+
+
+function holidayButtonClickEvent() {
+  let holidayButton = document.getElementById('btn-holiday');
+  let originalBgColor = 'rgb(238,238,238)';
+  let holidays = document.getElementsByClassName('holiday');
+  let changeBgColor = 'green';
+
+  holidayButton.addEventListener('click', function() {
+    for (let i = 0; i < holidays.length; i += 1) {
+      if (holidays[i].style.backgroundColor !== originalBgColor) {
+        holidays[i].style.backgroundColor = changeBgColor;
+      } else {
+        holidays[i].style.backgroundColor = originalBgColor;
+      }
+    }
+  });
+}
+
+holidayButtonClickEvent();
