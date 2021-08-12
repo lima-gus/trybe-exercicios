@@ -15,6 +15,7 @@ createDaysOfTheWeek();
 
 // Escreva seu código abaixo.
 
+//1
 function calendarDays() {
   const dezDaysList = [29, 30, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31];
   const daysList = document.querySelector('#days');
@@ -41,6 +42,7 @@ function calendarDays() {
 }
 calendarDays();
 
+//2
 function holidayButton(str) {
   let button = document.createElement('button');
   button.id = 'btn-holiday';
@@ -52,7 +54,7 @@ function holidayButton(str) {
 
 holidayButton('Feriados');
 
-
+//3
 function holidayButtonClickEvent() {
   let holidayButton = document.getElementById('btn-holiday');
   let originalBgColor = 'rgb(238,238,238)';
