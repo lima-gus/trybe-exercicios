@@ -102,3 +102,24 @@ function fridayButtonClickEvent() {
 }
 
 fridayButtonClickEvent();
+
+//6
+function daysZoomIn() {
+  let zoom = document.getElementById('days');
+
+  zoom.addEventListener('mouseover', function(zoomIn) {
+  zoomIn.target.style.fontSize = '24px';
+  })
+}
+
+daysZoomIn();
+
+function daysZoomOut() {
+  let zoom = document.getElementById('days');
+
+  zoom.addEventListener('mouseout', function(zoomOut) {
+  zoomOut.target.style.fontSize = '20px';
+  })
+}
+
+daysZoomOut();
