@@ -83,3 +83,22 @@ function fridayButton(str) {
 }
 
 fridayButton('Sexta-feira');
+
+//5
+function fridayButtonClickEvent() {
+  let fridayButton = document.getElementById('btn-friday');
+  let fridays = document.getElementsByClassName('friday');
+  const fridayArr = [4, 11, 18, 25];
+
+  fridayButton.addEventListener('click', function() {
+    for (let i = 0; i < fridays.length; i += 1) {
+      if (fridays[i].innerHTML !== 'Sexta-feira') {
+        fridays[i].innerHTML = 'Sexta-feira';
+      } else {
+        fridays[i].innerHTML = fridayArr[i];
+      }
+    }
+  });
+}
+
+fridayButtonClickEvent();
