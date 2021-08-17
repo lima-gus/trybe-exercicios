@@ -39,8 +39,8 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 5-2: _JavaScript - Trabalhando com elementos_
 - [x] 5-3: _JavaScript - Eventos_
 - [x] 5-4: _JavaScript - Web Storage_
-- [ ] 5-5: _[Projeto - Arte com Pixels]()_
-- [x] 5-6: _[Projeto - Lista de tarefas](https://lima-gus.github.io/projetos/todo-list/)_
+- [x] 5-5: _[Projeto - Pixels Art](https://lima-gus.github.io/projects/pixels-art/)_
+- [x] 5-6: _[Projeto - TODO List](https://lima-gus.github.io/projects/todo-list/)_
 - [ ] 5-7: _[[BÔNUS] Projeto - Meme Generator]()_
 - [ ] 5-7: _[[BÔNUS] Projeto - Adivinhe a Cor]()_
 - [ ] 5-7: _[[BÔNUS] Projeto - Carta Misteriosa]()_
