@@ -33,7 +33,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 4-4: _JavaScript - Objetos e funções_
 - [x] 4-5: _[Projeto - Playground Functions](https://github.com/tryber/sd-015-a-project-playground-functions/pull/95#issuecomment-894438413)_
 
-##### Bloco 5: [JavaScript: DOM, Eventos e Web Storage + Projetos](https://github.com/lima-gus/trybe-exercicios/tree/main/01-fundamentos/bloco-05-javascript-dom-eventos-e-web-storage)
+##### Bloco 5: [JavaScript: DOM, Eventos e Web Storage ](https://github.com/lima-gus/trybe-exercicios/tree/main/01-fundamentos/bloco-05-javascript-dom-eventos-e-web-storage)
 
 - [x] 5-1: _JavaScript - DOM e seletores_
 - [x] 5-2: _JavaScript - Trabalhando com elementos_
@@ -45,9 +45,9 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [ ] 5-7: _[[BÔNUS] Projeto - Adivinhe a Cor]()_
 - [ ] 5-7: _[[BÔNUS] Projeto - Carta Misteriosa]()_
 
-##### Bloco 6: [HTML & CSS: Forms, Flexbox e Responsivo]()
+##### Bloco 6: [HTML & CSS: Forms, Flexbox e Responsivo](https://github.com/lima-gus/trybe-exercicios/tree/main/01-fundamentos/bloco-06-html-e-css-forms-flexbox-e-responsivo)
 
-- [ ] 6-1: _HTML & CSS - Forms_
+- [x] 6-1: _HTML & CSS - Forms_
 - [ ] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
 - [ ] 6-3: _CSS Flexbox - Part 1_
 - [ ] 6-4: _CSS Flexbox - Part 2_
