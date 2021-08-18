@@ -30,8 +30,10 @@
         <input type="text" name="cidade" id="cidade" maxlength="28" required> 
       </label>
 
-      <label for=""> Estado
-        <input type="select" name="estado" id="estado" required placeholder="Selecione seu estado"> 
+      <label for="estado"> Estado
+        <select name="estado" id="estado" required>
+          <option disabled selected> Selecione seu estado </option>
+        </select>
       </label>
 
       <label for="casa">
@@ -59,7 +61,7 @@
       </label>
 
       <label for="data-inicio">Data de início
-        <input type="text" name="data" id="data-inicio">
+        <input type="date" name="data" id="data-inicio">
       </label>
 
     </fieldset>
