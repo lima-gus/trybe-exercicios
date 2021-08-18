@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Forms</title>
+</head>
+<body>
+  <form action="">
+    <fieldset>
+      <label for="name">
+        <input type="text" name="name" id="name" maxlength="40" required> Nome
+      </label>
+
+      <label for="email">
+        <input type="text" name="email" id="email" maxlength="50" required> Email
+      </label>
+
+      <label for="cpf">
+        <input type="text" name="cpf" id="cpf" maxlength="11" required> CPF
+      </label>
+
+      <label for="endereco">
+        <input type="text" name="endereço" id="endereco" maxlength="200" required> Endereço
+      </label>
+
+      <label for="cidade">
+        <input type="text" name="cidade" id="cidade" maxlength="28" required> Cidade
+      </label>
+
+      <label for="">
+        <input type="select" name="estado" id="estado" required placeholder="Selecione seu estado"> Estado
+      </label>
+
+      <label for="casa">
+        <input type="radio" name="onde-mora" value="casa" id="casa"> Casa
+      </label>
+
+      <label for="apto">
+        <input type="radio" name="onde-mora" value="apto" id="apto"> Apartamento
+      </label>
+
+    </fieldset>
+
+  </form>
+  <script src="script.js"></script>
+</body>
+</html>
