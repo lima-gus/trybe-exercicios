@@ -4,33 +4,34 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
   <title>Forms</title>
 </head>
 <body>
-  <form action="">
+  <form action="" method="GET">
     <fieldset>
-      <label for="name">
-        <input type="text" name="name" id="name" maxlength="40" required> Nome
+      <label for="name"> Nome
+        <input type="text" name="name" id="name" maxlength="40" required> 
       </label>
 
-      <label for="email">
-        <input type="text" name="email" id="email" maxlength="50" required> Email
+      <label for="email"> Email
+        <input type="text" name="email" id="email" maxlength="50" required> 
       </label>
 
-      <label for="cpf">
-        <input type="text" name="cpf" id="cpf" maxlength="11" required> CPF
+      <label for="cpf"> CPF
+        <input type="text" name="cpf" id="cpf" maxlength="11" required> 
       </label>
 
-      <label for="endereco">
-        <input type="text" name="endereço" id="endereco" maxlength="200" required> Endereço
+      <label for="endereco"> Endereço
+        <input type="text" name="endereço" id="endereco" maxlength="200" required> 
       </label>
 
-      <label for="cidade">
-        <input type="text" name="cidade" id="cidade" maxlength="28" required> Cidade
+      <label for="cidade"> Cidade
+        <input type="text" name="cidade" id="cidade" maxlength="28" required> 
       </label>
 
-      <label for="">
-        <input type="select" name="estado" id="estado" required placeholder="Selecione seu estado"> Estado
+      <label for=""> Estado
+        <input type="select" name="estado" id="estado" required placeholder="Selecione seu estado"> 
       </label>
 
       <label for="casa">
@@ -39,6 +40,26 @@
 
       <label for="apto">
         <input type="radio" name="onde-mora" value="apto" id="apto"> Apartamento
+      </label>
+
+    </fieldset>
+
+    <fieldset>
+
+      <label for="resumo-curriculo"> Resumo do currículo
+        <textarea name="resumo" id="resumo-curriculo" cols="30" rows="10" maxlength="1000" required></textarea>
+      </label>
+
+      <label for="cargo">Cargo
+        <input type="text" name="cargo" maxlength="40" id="cargo" required>
+      </label>
+
+      <label for="descricao-cargo">Descrição do cargo
+        <input type="text" name="descricao" maxlength="500" id="descricao-cargo" required>
+      </label>
+
+      <label for="data-inicio">Data de início
+        <input type="text" name="data" id="data-inicio">
       </label>
 
     </fieldset>
