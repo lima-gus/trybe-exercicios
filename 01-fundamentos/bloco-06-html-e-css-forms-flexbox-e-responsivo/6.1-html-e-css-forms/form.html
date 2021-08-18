@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Forms</title>
+</head>
+<body>
+  <section id="personal-info">
+    <form action="" method="GET">
+      <fieldset>
+        <label for="name"> Nome
+          <input type="text" name="name" id="name" maxlength="40" required> 
+        </label>
+
+        <label for="email"> Email
+          <input type="text" name="email" id="email" maxlength="50" required> 
+        </label>
+
+        <label for="cpf"> CPF
+          <input type="text" name="cpf" id="cpf"  maxlength="11" required> 
+        </label>
+
+        <label for="endereco"> Endereço
+          <input type="text" name="endereço" id="endereco" maxlength="200" required> 
+        </label>
+
+        <label for="cidade"> Cidade
+          <input type="text" name="cidade" id="cidade" maxlength="28" required> 
+        </label>
+
+        <label for="estado"> Estado
+          <select name="estado" id="estado" required>
+          <option disabled selected> Selecione seu estado </option>
+          </select>
+        </label>
+        
+        <label for="casa">
+          <input type="radio" name="onde-mora" value="casa" id="casa"> Casa
+        </label>
+
+        <label for="apto">
+          <input type="radio" name="onde-mora" value="apto" id="apto"> Apartamento
+        </label>
+
+      </fieldset>
+  </section>
+  <section>
+    <fieldset>
+
+      <label for="resumo-curriculo"> Resumo do currículo
+        <textarea name="resumo" id="resumo-curriculo" cols="30" rows="10" maxlength="1000" required></textarea>
+      </label>
+
+      <label for="cargo">Cargo
+        <input type="text" name="cargo" maxlength="40" id="cargo" required>
+      </label>
+
+      <label for="descricao-cargo">Descrição do cargo
+        <input type="text" name="descricao" maxlength="500" id="descricao-cargo" required>
+      </label>
+
+      <label for="data-inicio">Data de início
+        <input type="date" name="data" id="data-inicio">
+      </label>
+
+    </fieldset>
+  </section>
+  </form>
+  <section id="buttons">
+    <button>Enviar</button>
+    <button>Limpar</button>
+  </section>
+  <script src="script.js"></script>
+</body>
+</html>
