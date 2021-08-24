@@ -5,7 +5,7 @@ body {
   flex-flow: column wrap;
   font-family: Raleway, sans-serif;
   justify-content: center;
-  overflow: hidden;
+  overflow: scroll;
   width: 100vw;
 }
 
