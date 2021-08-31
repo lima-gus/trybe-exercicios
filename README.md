@@ -52,12 +52,12 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 6-3: _CSS Flexbox - Part 1_
 - [x] 6-4: _CSS Flexbox - Part 2_
 - [x] 6-5: _CSS Responsivo - Mobile First_
-- [ ] 6-6: _[Projeto - Trybewarts]()_
+- [x] 6-6: _[Projeto - Trybewarts](https://github.com/tryber/sd-015-a-project-trybewarts/pull/71#issuecomment-906730169)_
 
-##### Bloco 7: [JavaScript ES6 & Testes Unitários]()
+##### Bloco 7: [JavaScript ES6 & Testes Unitários](https://github.com/lima-gus/trybe-exercicios/tree/main/01-fundamentos/bloco-07-js-es6-e-testes-unitarios)
 
-- [ ] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [ ] 7-2: _JavaScript ES6 - Objects_
+- [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
+- [x] 7-2: _JavaScript ES6 - Objects_
 - [ ] 7-3: _Testes unitários em JavaScript_
 - [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
 
