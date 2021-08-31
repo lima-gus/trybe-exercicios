@@ -35,3 +35,7 @@ console.log(objLength(lesson2));
 //Exercício 4
 const listValue = (object) => Object.values(object);
 console.log(listValue(lesson2));
+
+//Exercício 5
+const allLessons = Object.assign({}, {lesson1, lesson2, lesson3});
+console.log(allLessons);
