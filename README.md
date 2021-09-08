@@ -58,16 +58,17 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 - [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 7-2: _JavaScript ES6 - Objects_
-- [ ] 7-3: _Testes unitários em JavaScript_
-- [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
+- [x] 7-3: _Testes unitários em JavaScript_
+- [x] 7-4: _[Projeto - JavaScript Testes Unitários](https://github.com/tryber/sd-015-a-project-js-unit-tests/pull/27#issuecomment-913197421)_
 
-##### Bloco 8: [Higher Order Functions do JavaScript ES6]()
+##### Bloco 8: [Higher Order Functions do JavaScript ES6](https://github.com/lima-gus/trybe-exercicios/tree/main/01-fundamentos/bloco-08-higher-order-functions-js-es6)
 
-- [ ] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [ ] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
-- [ ] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
-- [ ] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [ ] 8-5: _[Projeto - Zoo functions]()_
+- [x] 8.1: _JavaScript ES6 - Introdução a Higher Order Functions_
+- [x] 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+- [x] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
+- [ ] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
+- [ ] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
+- [ ] 8-6: _[Projeto - Zoo functions]()_
 
 ##### Bloco 9: [JavaScript Assíncrono e Promisses]()
 
