@@ -66,13 +66,13 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 8.1: _JavaScript ES6 - Introdução a Higher Order Functions_
 - [x] 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
 - [x] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
-- [ ] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
-- [ ] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
+- [x] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
+- [x] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
 - [ ] 8-6: _[Projeto - Zoo functions]()_
 
-##### Bloco 9: [JavaScript Assíncrono e Promisses]()
+##### Bloco 9: [JavaScript Assíncrono e Promisses](https://github.com/lima-gus/trybe-exercicios/tree/main/01-fundamentos/bloco-09-javascrpit-assincrono-e-promises)
 
-- [ ] 9-1: _JavaScript Assíncrono e Callbacks_
+- [x] 9-1: _JavaScript Assíncrono e Callbacks_
 - [ ] 9-2: _JavaScript Promises_
 - [ ] 9-3: _[Projeto - Carrinho de Compras]()_
 
