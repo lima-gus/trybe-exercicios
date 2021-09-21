@@ -224,12 +224,12 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [ ] 31-1: _Arquitetura de Software - Camada de View_ 
 - [ ] 31-2: _Sockets - TCP/UDP & NET_
 - [ ] 31-3: _Sockets - Socket.io_
-- [ ] 31-4: _Sockets - Praticando Socket.io
+- [ ] 31-4: _Sockets - Praticando Socket.io_
 - [ ] 31-5: _[Projeto - Webchat]()_
 
-##### Bloco 32 [Arquitetura de Software]()
+##### Bloco 32 [Projeto Final de Back-end]()
 
-- [ ] 32-1: _[Projeto - Trybeer V2]()_
+- [ ] 32-1: _[Projeto - App de Delivery]()_
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
