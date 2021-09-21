@@ -68,17 +68,17 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
 - [x] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
 - [x] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [ ] 8-6: _[Projeto - Zoo functions]()_
+- [x] 8-6: _[Projeto - Zoo functions](https://github.com/tryber/sd-015-a-project-zoo-functions/pull/44#issuecomment-922548357)_
 
 ##### Bloco 9: [JavaScript Assíncrono e Promisses](https://github.com/lima-gus/trybe-exercicios/tree/main/01-fundamentos/bloco-09-javascrpit-assincrono-e-promises)
 
 - [x] 9-1: _JavaScript Assíncrono e Callbacks_
-- [ ] 9-2: _JavaScript Promises_
+- [x] 9-2: _JavaScript Promises_
 - [ ] 9-3: _[Projeto - Carrinho de Compras]()_
 
-##### Bloco 10: [Jest]()
+##### Bloco 10: [Testes automatizados com Jest](https://github.com/lima-gus/trybe-exercicios/tree/main/01-fundamentos/bloco-10-testes-automatizados-com-jest)
 
-- [ ] 10-1: _Primeiros passos no Jest_
+- [x] 10-1: _Primeiros passos no Jest_
 - [ ] 10-2: _Jest - Testes Assíncronos_
 - [ ] 10-3: _Jest - Simulando comportamentos_
 - [ ] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
