@@ -4,7 +4,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 > "São mais de 1500 horas de formação que aborda fundamentos de desenvolvimento web, front-end, back-end, ciência da computação, metodologias ágeis e habilidades comportamentais."
 
-## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
+## Fundamentos do Desenvolvimento Web :white_check_mark:
 
 ##### Bloco 1: [Unix & Bash](https://github.com/lima-gus/trybe-exercicios/tree/main/01-fundamentos/bloco-01-unix-e-bash)
 
@@ -81,7 +81,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 10-1: _Primeiros passos no Jest_
 - [x] 10-2: _Jest - Testes Assíncronos_
 - [x] 10-3: _Jest - Simulando comportamentos_
-- [ ] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
+- [x] 10-4: _[Projeto - Jest Assíncrono e Mocking](https://github.com/tryber/sd-015-a-project-jest/pull/32#issuecomment-928343393)_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
