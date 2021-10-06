@@ -85,10 +85,10 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-##### Bloco 11: [Introdução à React]()
+##### Bloco 11: [Introdução à React](https://github.com/lima-gus/trybe-exercicios/tree/main/02-front-end/bloco-11-introducao-a-react)
 
-- [ ] 11-1: _'Hello, world!' no React!_
-- [ ] 11-2: _Componentes React_
+- [x] 11-1: _'Hello, world!' no React!_
+- [x] 11-2: _Componentes React_
 - [ ] 11-3: _[Projeto - Movie Cards Library]()_
 
 ##### Bloco 12: [Componentes com Estado, Eventos e Formulários com React]()
