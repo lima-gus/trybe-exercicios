@@ -41,9 +41,6 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 5-4: _JavaScript - Web Storage_
 - [x] 5-5: _[Projeto - Pixels Art](https://github.com/tryber/sd-015-a-project-pixels-art/pull/77#issuecomment-900631260)_
 - [x] 5-6: _[Projeto - TODO List](https://github.com/tryber/sd-015-a-project-todo-list/pull/17#issuecomment-900617680)_
-- [ ] 5-7: _[[BÔNUS] Projeto - Meme Generator]()_
-- [ ] 5-7: _[[BÔNUS] Projeto - Adivinhe a Cor]()_
-- [ ] 5-7: _[[BÔNUS] Projeto - Carta Misteriosa]()_
 
 ##### Bloco 6: [HTML & CSS: Forms, Flexbox e Responsivo](https://github.com/lima-gus/trybe-exercicios/tree/main/01-fundamentos/bloco-06-html-e-css-forms-flexbox-e-responsivo)
 
@@ -275,3 +272,9 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [ ] 38-2: _Deque_
 - [ ] 38-3: _Pilhas_
 - [ ] 38-4: _[Projeto - TING - Trybe Is Not Google]()_
+
+## Bônus
+
+- [ ] _[Projeto - Meme Generator]()_
+- [ ] _[Projeto - Adivinhe a Cor]()_
+- [ ] _[Projeto - Carta Misteriosa]()_
