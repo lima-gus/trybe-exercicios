@@ -86,7 +86,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 - [x] 11-1: _'Hello, world!' no React!_
 - [x] 11-2: _Componentes React_
-- [ ] 11-3: _[Projeto - Movie Cards Library]()_
+- [x] 11-3: _[Projeto - Movie Cards Library](https://github.com/tryber/sd-015-a-project-movie-cards-library/pull/24#issuecomment-937329653)_
 
 ##### Bloco 12: [Componentes com Estado, Eventos e Formulários com React]()
 
