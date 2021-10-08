@@ -88,11 +88,11 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 11-2: _Componentes React_
 - [x] 11-3: _[Projeto - Movie Cards Library](https://github.com/tryber/sd-015-a-project-movie-cards-library/pull/24#issuecomment-937329653)_
 
-##### Bloco 12: [Componentes com Estado, Eventos e Formulários com React]()
+##### Bloco 12: [Componentes com Estado, Eventos e Formulários com React](https://github.com/lima-gus/trybe-exercicios/tree/main/02-front-end/bloco-12-componentes-com-estado-eventos-e-formularios-com-react)
 
-- [ ] 12-1: _Componentes com estado e eventos_
-- [ ] 12-2: _Formulários no React_
-- [ ] 12-3: _[Projeto - Movie Cards Library Stateful]()_
+- [x] 12-1: _Componentes com estado e eventos_
+- [x] 12-2: _Formulários no React_
+- [ ] 12-3: _[Projeto - Tryunfo]()_
 
 ##### Bloco 13: [Ciclo de Vida de Componentes e React Router]()
 
