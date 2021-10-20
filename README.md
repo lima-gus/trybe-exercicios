@@ -92,13 +92,13 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 - [x] 12-1: _Componentes com estado e eventos_
 - [x] 12-2: _Formulários no React_
-- [ ] 12-3: _[Projeto - Tryunfo]()_
+- [x] 12-3: _[Projeto - Tryunfo](https://github.com/tryber/sd-015-a-project-tryunfo/pull/9#issuecomment-947923924)_
 
-##### Bloco 13: [Ciclo de Vida de Componentes e React Router]()
+##### Bloco 13: [Ciclo de Vida de Componentes e React Router](https://github.com/lima-gus/trybe-exercicios/tree/main/02-front-end/bloco-13-ciclo-de-vida-de-componentes-e-react-router)
 
-- [ ] 13-1: _Ciclo de vida de componentes em React_
-- [ ] 13-2: _React Router_
-- [ ] 13-3: _[Projeto - Movie Cards Library CRUD]()_
+- [x] 13-1: _Ciclo de vida de componentes em React_
+- [x] 13-2: _React Router_
+- [ ] 13-3: _[Projeto - Trybetunes]()_
 
 ##### Bloco 14: [Metodologias Ágeis]()
 
