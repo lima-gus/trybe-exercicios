@@ -1,6 +1,6 @@
 ## Dinâmica 
 
-<img width="500" src="/Dinamica_Metodologias_Ageis.png">
+<img width="500" src="./01-Dinamica_Metodologias_Ageis.png">
 
 
 ## Recursos adicionais
@@ -33,4 +33,4 @@
 
 ## Livros recomendados
 
-<img width="500" src="/livros-recomendados.png">
+<img width="500" src="./02-livros-recomendados.png">
