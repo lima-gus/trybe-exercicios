@@ -100,7 +100,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 13-2: _React Router_
 - [ ] 13-3: _[Projeto - Trybetunes]()_
 
-##### Bloco 14: [Metodologias Ágeis]()
+##### Bloco 14: [Metodologias Ágeis](https://github.com/lima-gus/trybe-exercicios/tree/main/02-front-end/bloco-14-metodologias-ageis)
 
 - [x] 14-1: _Metodologias Ágeis_
 - [ ] 14-2: _[Projeto - Frontend Online Store]()_
