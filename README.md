@@ -98,7 +98,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 - [x] 13-1: _Ciclo de vida de componentes em React_
 - [x] 13-2: _React Router_
-- [ ] 13-3: _[Projeto - Trybetunes]()_
+- [x] 13-3: _[Projeto - Trybetunes](https://github.com/tryber/sd-015-a-project-trybetunes/pull/19#issuecomment-953404109)_
 
 ##### Bloco 14: [Metodologias Ágeis](https://github.com/lima-gus/trybe-exercicios/tree/main/02-front-end/bloco-14-metodologias-ageis)
 
