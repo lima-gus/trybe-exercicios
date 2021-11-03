@@ -103,12 +103,12 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 ##### Bloco 14: [Metodologias Ágeis](https://github.com/lima-gus/trybe-exercicios/tree/main/02-front-end/bloco-14-metodologias-ageis)
 
 - [x] 14-1: _Metodologias Ágeis_
-- [ ] 14-2: _[Projeto - Frontend Online Store]()_
+- [x] 14-2: _[Projeto - Frontend Online Store](https://github.com/tryber/sd-015-a-project-frontend-online-store/pull/73#issuecomment-954035376)_
 
-##### Bloco 15: [Testes automatizados com React Testing Library]()
+##### Bloco 15: [Testes automatizados com React Testing Library](https://github.com/lima-gus/trybe-exercicios/tree/main/02-front-end/bloco-15-testes-automatizados-com-rtl)
 
-- [ ] 15-1: _RTL - Primeiros Passos_
-- [ ] 15-2: _RTL - Mocks e Inputs_
+- [x] 15-1: _RTL - Primeiros Passos_
+- [x] 15-2: _RTL - Mocks e Inputs_
 - [ ] 15-3: _RTL - Testando React Router_
 - [ ] 15-3: _[Projeto - Testes em React]()_
 
