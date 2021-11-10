@@ -109,7 +109,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 - [x] 15-1: _RTL - Primeiros Passos_
 - [x] 15-2: _RTL - Mocks e Inputs_
-- [ ] 15-3: _RTL - Testando React Router_
+- [x] 15-3: _RTL - Testando React Router_
 - [ ] 15-3: _[Projeto - Testes em React]()_
 
 ##### Bloco 16: [Gerenciamento de estado com Redux]()
