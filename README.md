@@ -112,10 +112,10 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 15-3: _RTL - Testando React Router_
 - [ ] 15-3: _[Projeto - Testes em React]()_
 
-##### Bloco 16: [Gerenciamento de estado com Redux]()
+##### Bloco 16: [Gerenciamento de estado com Redux](https://github.com/lima-gus/trybe-exercicios/tree/main/02-front-end/bloco-16-gerenciamento-de-estado-com-redux)
 
-- [ ] 16-1: _Introdução ao Redux_
-- [ ] 16-2: _React com Redux_
+- [x] 16-1: _Introdução ao Redux_
+- [x] 16-2: _React com Redux_
 - [ ] 16-3: _React com Redux - Prática_
 - [ ] 16-4: _React com Redux - Actions Assíncronas_
 - [ ] 16-5: _Testes em React-Redux_
