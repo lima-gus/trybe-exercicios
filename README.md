@@ -110,14 +110,14 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 15-1: _RTL - Primeiros Passos_
 - [x] 15-2: _RTL - Mocks e Inputs_
 - [x] 15-3: _RTL - Testando React Router_
-- [ ] 15-3: _[Projeto - Testes em React]()_
+- [x] 15-3: _[Projeto - React Testing Library](https://github.com/tryber/sd-015-a-project-react-testing-library/pull/14#issuecomment-963381056)_
 
 ##### Bloco 16: [Gerenciamento de estado com Redux](https://github.com/lima-gus/trybe-exercicios/tree/main/02-front-end/bloco-16-gerenciamento-de-estado-com-redux)
 
 - [x] 16-1: _Introdução ao Redux_
 - [x] 16-2: _React com Redux_
-- [ ] 16-3: _React com Redux - Prática_
-- [ ] 16-4: _React com Redux - Actions Assíncronas_
+- [x] 16-3: _React com Redux - Prática_
+- [x] 16-4: _React com Redux - Actions Assíncronas_
 - [ ] 16-5: _Testes em React-Redux_
 - [ ] 16-6: _[Projeto - Trybe Wallet]()_
 
