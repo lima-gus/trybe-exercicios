@@ -118,7 +118,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 16-2: _React com Redux_
 - [x] 16-3: _React com Redux - Prática_
 - [x] 16-4: _React com Redux - Actions Assíncronas_
-- [ ] 16-5: _Testes em React-Redux_
+- [x] 16-5: _Testes em React-Redux_
 - [ ] 16-6: _[Projeto - Trybe Wallet]()_
 
 ##### Bloco 17: [Projeto React]()
