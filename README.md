@@ -67,7 +67,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
 - [x] 8-6: _[Projeto - Zoo functions](https://github.com/tryber/sd-015-a-project-zoo-functions/pull/44#issuecomment-922548357)_
 
-##### Bloco 9: [JavaScript Assíncrono e Promisses](https://github.com/lima-gus/trybe-exercicios/tree/main/01-fundamentos/bloco-09-javascrpit-assincrono-e-promises)
+##### Bloco 9: [JavaScript Assíncrono e Promises](https://github.com/lima-gus/trybe-exercicios/tree/main/01-fundamentos/bloco-09-javascrpit-assincrono-e-promises)
 
 - [x] 9-1: _JavaScript Assíncrono e Callbacks_
 - [x] 9-2: _JavaScript Promises_
@@ -121,9 +121,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 16-5: _Testes em React-Redux_
 - [ ] 16-6: _[Projeto - Trybe Wallet]()_
 
-##### Bloco 17: [Projeto React]()
-
-- [ ] 17-1: _[Projeto - Jogo de Trivia]()_
+##### Bloco 17: [Projeto React - Jogo de Trivia]()
 
 ##### Bloco 18:  [Context API & React Hooks]()
 
@@ -132,9 +130,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [ ] 18-3: _React Hooks - useEffect e Hooks customizados_
 - [ ] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
 
-##### Bloco 19: [Projeto Final de Front-end]()
-
-- [ ] 19-1: _[Projeto - App de Receitas]()_
+##### Bloco 19: [Projeto Final de Front-end - App de Receitas]()
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
@@ -272,9 +268,3 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [ ] 38-2: _Deque_
 - [ ] 38-3: _Pilhas_
 - [ ] 38-4: _[Projeto - TING - Trybe Is Not Google]()_
-
-## Bônus
-
-- [ ] _[Projeto - Meme Generator]()_
-- [ ] _[Projeto - Adivinhe a Cor]()_
-- [ ] _[Projeto - Carta Misteriosa]()_
