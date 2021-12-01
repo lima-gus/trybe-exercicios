@@ -119,13 +119,14 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 16-3: _React com Redux - Prática_
 - [x] 16-4: _React com Redux - Actions Assíncronas_
 - [x] 16-5: _Testes em React-Redux_
-- [ ] 16-6: _[Projeto - Trybe Wallet]()_
+- [x] 16-6: _[Projeto - Trybe Wallet](https://github.com/tryber/sd-015-a-project-trybewallet/pull/9#issuecomment-982239925)_
 
-##### Bloco 17: [Projeto React - Jogo de Trivia]()
+##### Bloco 17: [Projeto React - Trivia]()
+- [x] 17-1: _[Projeto em Grupo - Jogo de Trivia React & Redux](https://github.com/tryber/sd-015-a-project-trivia-react-redux/pull/24#issuecomment-980453414)_
 
 ##### Bloco 18:  [Context API & React Hooks]()
 
-- [ ] 18-1: _Context API do React_
+- [x] 18-1: _Context API do React_
 - [ ] 18-2: _React Hooks - useState e useContext_
 - [ ] 18-3: _React Hooks - useEffect e Hooks customizados_
 - [ ] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
