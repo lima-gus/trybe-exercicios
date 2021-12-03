@@ -128,10 +128,11 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 - [x] 18-1: _Context API do React_
 - [x] 18-2: _React Hooks - useState e useContext_
-- [ ] 18-3: _React Hooks - useEffect e Hooks customizados_
+- [x] 18-3: _React Hooks - useEffect e Hooks customizados_
 - [ ] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
 
-##### Bloco 19: [Projeto Final de Front-end - App de Receitas]()
+##### Bloco 19: [Projeto Final de Front-end]()
+- [ ] 19-1: _[Projeto em Grupo - App de Receitas]()_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
