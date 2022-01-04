@@ -129,7 +129,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 18-1: _Context API do React_
 - [x] 18-2: _React Hooks - useState e useContext_
 - [x] 18-3: _React Hooks - useEffect e Hooks customizados_
-- [ ] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [x] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks](https://github.com/tryber/sd-015-a-project-starwars-planets-search/pull/19#issuecomment-1004478097)_
 
 ##### Bloco 19: [Projeto Final de Front-end]()
 - [ ] 19-1: _[Projeto em Grupo - App de Receitas]()_
