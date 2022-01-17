@@ -132,7 +132,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks](https://github.com/tryber/sd-015-a-project-starwars-planets-search/pull/19#issuecomment-1004478097)_
 
 ##### Bloco 19: [Projeto Final de Front-end]()
-- [x] 19-1: _[Projeto em Grupo - App de Receitas]()_
+- [x] 19-1: _[Projeto em Grupo - App de Receitas](https://github.com/tryber/sd-015-a-project-recipes-app/pull/39#issuecomment-1014043808)_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
