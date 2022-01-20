@@ -141,7 +141,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 20-1: _Utilizando Containers - Docker_
 - [x] 20-2: _Manipulação e Criação de Imagens no Docker_
 - [x] 20-3: _Orquestrando Containers com Docker Compose_
-- [ ] 20-4: _[Projeto - Docker Todo-List]()_
+- [x] 20-4: _[Projeto - Docker Todo-List](https://github.com/tryber/sd-015-a-project-docker-todo-list/pull/15#issuecomment-1017959671)_
 
 ##### Bloco 21: [Introdução à SQL]()
 
