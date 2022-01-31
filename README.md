@@ -153,7 +153,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ##### Bloco 22: [Funções SQL, Joins e Normalização]()
 
-- [ ] 22-1: _Funções mais usadas no SQL_
+- [x] 22-1: _Funções mais usadas no SQL_
 - [ ] 22-2: _Descomplicando JOINs_
 - [ ] 22-3: _Transformando ideias em um modelo de banco de dados_
 - [ ] 22-4: _[Projeto - One For All]()_
