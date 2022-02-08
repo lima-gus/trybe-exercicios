@@ -183,7 +183,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [ ] 25-4: _Testando APIs com Testes de Integração_
 - [ ] 25-5: _[Projeto - API de Blogs]()_
 
-##### Bloco 26: [MongoDB: Aggregation Framework]()
+##### Bloco 26: [Deployment]()
 
 - [ ] 26-1: _Infraestrutura - Deploy com Heroku_
 - [ ] 26-2: _Deploy Docker & Heroku_
