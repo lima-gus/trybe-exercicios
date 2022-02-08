@@ -156,7 +156,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 22-1: _Funções mais usadas no SQL_
 - [x] 22-2: _Descomplicando JOINs_
 - [x] 22-3: _Transformando ideias em um modelo de banco de dados_
-- [ ] 22-4: _[Projeto - One For All]()_
+- [x] 22-4: _[Projeto - One For All](https://github.com/tryber/sd-015-a-mysql-one-for-all/pull/11#issuecomment-1032140289)_
 
 ##### Bloco 23: [Introdução ao desenvolvimento Web com Node.js]()
 
