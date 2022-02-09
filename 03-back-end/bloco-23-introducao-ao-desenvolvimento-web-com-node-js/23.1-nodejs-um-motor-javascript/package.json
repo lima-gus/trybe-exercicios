@@ -4,6 +4,7 @@
   "description": "Exercícios 23.1",
   "main": "index.js",
   "scripts": {
+    "imc": "node imc.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
