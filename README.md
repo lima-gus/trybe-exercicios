@@ -158,9 +158,9 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 22-3: _Transformando ideias em um modelo de banco de dados_
 - [x] 22-4: _[Projeto - One For All](https://github.com/tryber/sd-015-a-mysql-one-for-all/pull/11#issuecomment-1032140289)_
 
-##### Bloco 23: [Introdução ao desenvolvimento Web com Node.js]()
+##### Bloco 23: [Introdução ao desenvolvimento Web com Node.js](https://github.com/lima-gus/trybe-exercicios/tree/main/03-back-end/bloco-23-introducao-ao-desenvolvimento-web-com-node-js)
 
-- [ ] 23-1: _Node.js - Um motor JavaScript_
+- [x] 23-1: _Node.js - Um motor JavaScript_
 - [ ] 23-2: _Node.js - Fluxo Assíncrono_
 - [ ] 23-3: _Mocha, Chai e Sinon - Testes de Back-end com Node.js_
 - [ ] 23-4: _Express - HTTP com Node.js_
