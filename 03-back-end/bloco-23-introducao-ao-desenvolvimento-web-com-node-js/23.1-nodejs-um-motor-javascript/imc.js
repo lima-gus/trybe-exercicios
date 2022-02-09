@@ -1,5 +1,7 @@
-const PESO_PESSOA = 50;
-const ALTURA_PESSOA = 163;
+var readlineSync = require('readline-sync');
+
+const PESO_PESSOA = readlineSync.questionFloat('Qual o seu peso?\n');
+const ALTURA_PESSOA = readlineSync.questionFloat('Qual a sua altura?\n');
 
 const imc = (peso, altura) => {
   peso = PESO_PESSOA;
