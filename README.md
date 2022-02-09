@@ -161,7 +161,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 ##### Bloco 23: [Introdução ao desenvolvimento Web com Node.js](https://github.com/lima-gus/trybe-exercicios/tree/main/03-back-end/bloco-23-introducao-ao-desenvolvimento-web-com-node-js)
 
 - [x] 23-1: _Node.js - Um motor JavaScript_
-- [ ] 23-2: _Node.js - Fluxo Assíncrono_
+- [x] 23-2: _Node.js - Fluxo Assíncrono_
 - [ ] 23-3: _Mocha, Chai e Sinon - Testes de Back-end com Node.js_
 - [ ] 23-4: _Express - HTTP com Node.js_
 - [ ] 23-5: _Express - Middlewares_
