@@ -164,7 +164,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 23-2: _Node.js - Fluxo Assíncrono_
 - [x] 23-3: _Mocha, Chai e Sinon - Testes de Back-end com Node.js_
 - [x] 23-4: _Express - HTTP com Node.js_
-- [ ] 23-5: _Express - Middlewares_
+- [x] 23-5: _Express - Middlewares_
 - [ ] 23-6: _[Projeto - Talker Manager]()_
 
 ##### Bloco 24: [Node.js: Camada de Serviço e Arquitetura Rest e Restful]()
