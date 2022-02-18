@@ -170,7 +170,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 ##### Bloco 24: [Node.js: Camada de Serviço e Arquitetura Rest e Restful]()
 
 - [x] 24-1: _Arquitetura de Software - Camada de Model_
-- [ ] 24-2: _Arquitetura de Software - Camada de Controller e Service_
+- [x] 24-2: _Arquitetura de Software - Camada de Controller e Service_
 - [ ] 24-3: _Arquitetura Web - Rest e Restful_
 - [ ] 24-4: _Arquitetura de Software - Testando as Camadas_
 - [ ] 24-5: _[Projeto - Store Manager]()_
