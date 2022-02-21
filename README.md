@@ -165,7 +165,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 23-3: _Mocha, Chai e Sinon - Testes de Back-end com Node.js_
 - [x] 23-4: _Express - HTTP com Node.js_
 - [x] 23-5: _Express - Middlewares_
-- [ ] 23-6: _[Projeto - Talker Manager]()_
+- [x] 23-6: _[Projeto - Talker Manager](https://github.com/tryber/sd-015-a-project-talker-manager/pull/15#issuecomment-1046385274)_
 
 ##### Bloco 24: [Node.js: Camada de Serviço e Arquitetura Rest e Restful]()
 
