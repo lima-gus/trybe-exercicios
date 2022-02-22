@@ -172,7 +172,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 24-1: _Arquitetura de Software - Camada de Model_
 - [x] 24-2: _Arquitetura de Software - Camada de Controller e Service_
 - [x] 24-3: _Arquitetura Web - Rest e Restful_
-- [ ] 24-4: _Arquitetura de Software - Testando as Camadas_
+- [x] 24-4: _Arquitetura de Software - Testando as Camadas_
 - [ ] 24-5: _[Projeto - Store Manager]()_
 
 ##### Bloco 25: [Node.js: ORM e Autenticação]()
