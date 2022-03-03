@@ -173,7 +173,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 24-2: _Arquitetura de Software - Camada de Controller e Service_
 - [x] 24-3: _Arquitetura Web - Rest e Restful_
 - [x] 24-4: _Arquitetura de Software - Testando as Camadas_
-- [ ] 24-5: _[Projeto - Store Manager]()_
+- [x] 24-5: _[Projeto - Store Manager](https://github.com/tryber/sd-015-a-store-manager/pull/37#issuecomment-1057762248)_
 
 ##### Bloco 25: [Node.js: ORM e Autenticação]()
 
