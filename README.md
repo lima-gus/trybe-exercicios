@@ -175,9 +175,9 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 24-4: _Arquitetura de Software - Testando as Camadas_
 - [x] 24-5: _[Projeto - Store Manager](https://github.com/tryber/sd-015-a-store-manager/pull/37#issuecomment-1057762248)_
 
-##### Bloco 25: [Node.js: ORM e Autenticação]()
+##### Bloco 25: [Node.js: ORM e Autenticação](https://github.com/lima-gus/trybe-exercicios/tree/main/03-back-end/bloco-25-node-js-ORM-e-autenticacao)
 
-- [ ] 25-1: _ORM - Interface da aplicação com o banco de dados_
+- [x] 25-1: _ORM - Interface da aplicação com o banco de dados_
 - [ ] 25-2: _ORM - Associations_
 - [ ] 25-3: _JWT - JSON Web Token_
 - [ ] 25-4: _Testando APIs com Testes de Integração_
