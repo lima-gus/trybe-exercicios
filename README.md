@@ -180,7 +180,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 25-1: _ORM - Interface da aplicação com o banco de dados_
 - [x] 25-2: _ORM - Associations_
 - [x] 25-3: _JWT - JSON Web Token_
-- [ ] 25-4: _Testando APIs com Testes de Integração_
+- [x] 25-4: _Testando APIs com Testes de Integração_
 - [ ] 25-5: _[Projeto - API de Blogs]()_
 
 ##### Bloco 26: [Deployment]()
