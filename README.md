@@ -185,7 +185,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ##### Bloco 26: [Deployment]()
 
-- [ ] 26-1: _Infraestrutura - Deploy com Heroku_
+- [x] 26-1: _Infraestrutura - Deploy com Heroku_
 - [ ] 26-2: _Deploy Docker & Heroku_
 - [ ] 26-3: _[Projeto - Stranger Things]()_
 
