@@ -201,8 +201,8 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [ ] 28-1: _Introdução à Orientação a Objetos_
 - [ ] 28-2: _Herança e Interfaces_
 - [ ] 28-3: _Polimorfismo_
-- [ ] 28-4: _SOLID - Introdução_
-- [ ] 28-5: _SOLID - Continuação_
+- [ ] 28-4: _SOLID - Introdução e Princípios S, O e D_
+- [ ] 28-5: _SOLID - Princípios L e I_
 - [ ] 28-6: _[Projeto - Trybers and Dragons]()_
 
 ##### Bloco 29: [Projeto - TFC - Trybe Futebol Clube]()
@@ -213,64 +213,60 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 - [ ] 30-1: _MongoDB - Introdução_
 - [ ] 30-2: _Filter Operators_
-- [ ] 30-3: _[Projeto - Data Flights]()_
+- [ ] 30-3: _Operador de consulta_
+- [ ] 30-4: _Updates Simples_
+- [ ] 30-5: _Updates Complexos - Arrays_
+- [ ] 30-6: _[Projeto - Commerce]()_
 
-##### Bloco 31: [MongoDB: Updates Simples e Complexos]()
+##### Bloco 31: [MasterClass - VPS, CI/CD]()
 
-- [ ] 31-1: _Updates Simples_
-- [ ] 31-2: _Updates Complexos - Arrays - Parte 1_
-- [ ] 31-3: _Updates Complexos - Arrays - Parte 2_
-- [ ] 31-4: _[Projeto - Commerce]()_
+- [ ] 31-1: _Dia 1_ 
+- [ ] 31-2: _Dia 2_
 
-##### Bloco 32: [MasterClass - VPS, CI/CD]()
+##### Bloco 32: [Projeto Final de Back-end]()
 
-- [ ] 32-1: _Dia 1_ 
-- [ ] 32-2: _Dia 2_
-
-##### Bloco 33: [Projeto Final de Back-end]()
-
-- [ ] 33-1: _[Projeto - App de Delivery]()_
+- [ ] 32-1: _[Projeto - App de Delivery]()_
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
-##### Bloco 34: [Introdução à Python]()
+##### Bloco 33: [Introdução à Python]()
 
-- [ ] 34-1: _Aprendendo Python_
-- [ ] 34-2: _Entrada e Saída de Dados_
-- [ ] 34-3: _Testes_
-- [ ] 34-4: _[Projeto - Job Insights]()_
+- [ ] 33-1: _Aprendendo Python_
+- [ ] 33-2: _Entrada e Saída de Dados_
+- [ ] 33-3: _Testes_
+- [ ] 33-4: _[Projeto - Job Insights]()_
 
-##### Bloco 35: [Programaçao Orientada a Objetos e Padrões de Projetos]()
+##### Bloco 34: [Programaçao Orientada a Objetos e Padrões de Projetos]()
 
-- [ ] 35-1: _Introdução à programação orientada a objetos_
-- [ ] 35-2: _Herança, Composição e Interfaces_
-- [ ] 35-3: _Padrões de projeto_
-- [ ] 35-4: _[Projeto - Relatórios de Estoque]()_
+- [ ] 34-1: _Introdução à programação orientada a objetos_
+- [ ] 34-2: _Herança, Composição e Interfaces_
+- [ ] 34-3: _Padrões de projeto_
+- [ ] 34-4: _[Projeto - Relatórios de Estoque]()_
 
-##### Bloco 36: [Redes e Raspagem de Dados]()
+##### Bloco 35: [Redes e Raspagem de Dados]()
 
-- [ ] 36-1: _Arquitetura de Redes_
-- [ ] 36-2: _Redes de Computadores, ferramentas e segurança_
-- [ ] 36-3: _Raspagem de Dados_
-- [ ] 36-4: _[Projeto - Tech News]()_
+- [ ] 35-1: _Arquitetura de Redes_
+- [ ] 35-2: _Redes de Computadores, ferramentas e segurança_
+- [ ] 35-3: _Raspagem de Dados_
+- [ ] 35-4: _[Projeto - Tech News]()_
 
-##### Bloco 37: [Algoritmos]()
+##### Bloco 36: [Algoritmos]()
 
-- [ ] 37-1: _Complexidade de Algoritmos_
-- [ ] 37-2: _Recursividade e Estratégias para solução de problemas_
-- [ ] 37-3: _Algoritmos de ordenação e busca_
-- [ ] 37-4:  _[Projeto - Algoritmos]()_
+- [ ] 36-1: _Complexidade de Algoritmos_
+- [ ] 36-2: _Recursividade e Estratégias para solução de problemas_
+- [ ] 36-3: _Algoritmos de ordenação e busca_
+- [ ] 36-4:  _[Projeto - Algoritmos]()_
 
-##### Bloco 38: [Estrutura de Dados I: Arrays, Hashmaps e Sets]()
+##### Bloco 37: [Estrutura de Dados I: Arrays, Hashmaps e Sets]()
 
-- [ ] 38-1: _Arquitetura de Computadores_
-- [ ] 38-2: _Arrays_
-- [ ] 38-3: _Hashmap e Dict_
-- [ ] 38-4: _Set_
-- [ ] 38-5: _[Projeto - Restaurant Orders]()_
+- [ ] 37-1: _Arquitetura de Computadores_
+- [ ] 37-2: _Arrays_
+- [ ] 37-3: _Hashmap e Dict_
+- [ ] 37-4: _Set_
+- [ ] 37-5: _[Projeto - Restaurant Orders]()_
 
-##### Bloco 39: [Estrutura de Dados II: Listas, Filas e Pilhas]()
+##### Bloco 38: [Estrutura de Dados II: Listas, Filas e Pilhas]()
 
-- [ ] 39-1: _Nó e Listas Encadeadas_
-- [ ] 39-2: _Pilhas e Filas_
-- [ ] 39-3: _[Projeto - TING - Trybe Is Not Google]()_
+- [ ] 38-1: _Nó e Listas Encadeadas_
+- [ ] 38-2: _Pilhas e Filas_
+- [ ] 38-3: _[Projeto - TING - Trybe Is Not Google]()_
