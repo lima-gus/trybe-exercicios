@@ -181,7 +181,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 25-2: _ORM - Associations_
 - [x] 25-3: _JWT - JSON Web Token_
 - [x] 25-4: _Testando APIs com Testes de Integração_
-- [ ] 25-5: _[Projeto - API de Blogs]()_
+- [x] 25-5: _[Projeto - API de Blogs](https://github.com/tryber/sd-015-a-project-blogs-api/pull/29#issuecomment-1073407839)_
 
 ##### Bloco 26: [Deployment]()
 
