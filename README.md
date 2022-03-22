@@ -187,7 +187,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 - [x] 26-1: _Infraestrutura - Deploy com Heroku_
 - [x] 26-2: _Deploy Docker & Heroku_
-- [ ] 26-3: _[Projeto - Stranger Things]()_
+- [x] 26-3: _[Projeto - Stranger Things](https://lima-gus-ft.herokuapp.com/)_
 
 ##### Bloco 27: [TypeScript]()
 
