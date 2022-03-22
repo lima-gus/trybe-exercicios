@@ -189,9 +189,9 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 26-2: _Deploy Docker & Heroku_
 - [x] 26-3: _[Projeto - Stranger Things](https://lima-gus-ft.herokuapp.com/)_
 
-##### Bloco 27: [TypeScript]()
+##### Bloco 27: [TypeScript](https://github.com/lima-gus/trybe-exercicios/tree/main/03-back-end/bloco-27-typescript)
 
-- [ ] 27-1: _Introdução ao TypeScript_
+- [x] 27-1: _Introdução ao TypeScript_
 - [ ] 27-2: _Tipagem Estática de Generics_
 - [ ] 27-3: _Express com TypeScript_
 - [ ] 27-4: _[Projeto - Trybe Smith]()_
