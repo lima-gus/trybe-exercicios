@@ -193,7 +193,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 - [x] 27-1: _Introdução ao TypeScript_
 - [x] 27-2: _Tipagem Estática de Generics_
-- [ ] 27-3: _Express com TypeScript_
+- [x] 27-3: _Express com TypeScript_
 - [ ] 27-4: _[Projeto - Trybe Smith]()_
 
 ##### Bloco 28: [Programação Orientada a Objetos (POO) e SOLID]()
