@@ -194,79 +194,76 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 27-1: _Introdução ao TypeScript_
 - [x] 27-2: _Tipagem Estática de Generics_
 - [x] 27-3: _Express com TypeScript_
-- [ ] 27-4: _[Projeto - Trybe Smith]()_
+- [x] 27-4: _[Projeto - Trybe Smith](https://github.com/tryber/sd-015-a-project-trybesmith/pull/19#issuecomment-1087049243)_
 
 ##### Bloco 28: [Programação Orientada a Objetos (POO) e SOLID]()
 
-- [ ] 28-1: _Introdução à Orientação a Objetos_
+- [x] 28-1: _Introdução à Orientação a Objetos_
 - [ ] 28-2: _Herança e Interfaces_
 - [ ] 28-3: _Polimorfismo_
 - [ ] 28-4: _SOLID - Introdução e Princípios S, O e D_
 - [ ] 28-5: _SOLID - Princípios L e I_
 - [ ] 28-6: _[Projeto - Trybers and Dragons]()_
+- [ ] 28-7: _[Projeto - TFC - Trybe Futebol Clube]()_
 
-##### Bloco 29: [Projeto - TFC - Trybe Futebol Clube]()
+##### Bloco 29: [Introdução ao MongoDB]()
 
-- [ ] 29-1: _[Projeto - TFC - Trybe Futebol Clube]()_
+- [ ] 29-1: _MongoDB - Introdução_
+- [ ] 29-2: _Filter Operators_
+- [ ] 29-3: _Operador de consulta_
+- [ ] 29-4: _Updates Simples_
+- [ ] 29-5: _Updates Complexos - Arrays_
+- [ ] 29-6: _[Projeto - Commerce]()_
 
-##### Bloco 30: [Introdução ao MongoDB]()
+##### Bloco 30: [MasterClass - VPS, CI/CD]()
 
-- [ ] 30-1: _MongoDB - Introdução_
-- [ ] 30-2: _Filter Operators_
-- [ ] 30-3: _Operador de consulta_
-- [ ] 30-4: _Updates Simples_
-- [ ] 30-5: _Updates Complexos - Arrays_
-- [ ] 30-6: _[Projeto - Commerce]()_
+- [ ] 30-1: _Dia 1_ 
+- [ ] 30-2: _Dia 2_
 
-##### Bloco 31: [MasterClass - VPS, CI/CD]()
+##### Bloco 31: [Projeto Final de Back-end]()
 
-- [ ] 31-1: _Dia 1_ 
-- [ ] 31-2: _Dia 2_
-
-##### Bloco 32: [Projeto Final de Back-end]()
-
-- [ ] 32-1: _[Projeto - App de Delivery]()_
+- [ ] 31-1: _[Projeto - App de Delivery]()_
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
-##### Bloco 33: [Introdução à Python]()
+##### Bloco 32: [Introdução à Python]()
 
-- [ ] 33-1: _Aprendendo Python_
-- [ ] 33-2: _Entrada e Saída de Dados_
-- [ ] 33-3: _Testes_
-- [ ] 33-4: _[Projeto - Job Insights]()_
+- [ ] 32-1: _Aprendendo Python_
+- [ ] 32-2: _Entrada e Saída de Dados_
+- [ ] 32-3: _Testes_
+- [ ] 32-4: _[Projeto - Job Insights]()_
 
-##### Bloco 34: [Programaçao Orientada a Objetos e Padrões de Projetos]()
+##### Bloco 33: [Programaçao Orientada a Objetos e Padrões de Projetos]()
 
-- [ ] 34-1: _Introdução à programação orientada a objetos_
-- [ ] 34-2: _Herança, Composição e Interfaces_
-- [ ] 34-3: _Padrões de projeto_
-- [ ] 34-4: _[Projeto - Relatórios de Estoque]()_
+- [ ] 33-1: _Introdução à programação orientada a objetos_
+- [ ] 33-2: _Herança, Composição e Interfaces_
+- [ ] 33-3: _Padrões de projeto_
+- [ ] 33-4: _[Projeto - Relatórios de Estoque]()_
 
-##### Bloco 35: [Redes e Raspagem de Dados]()
+##### Bloco 34: [Redes e Raspagem de Dados]()
 
-- [ ] 35-1: _Arquitetura de Redes_
-- [ ] 35-2: _Redes de Computadores, ferramentas e segurança_
-- [ ] 35-3: _Raspagem de Dados_
-- [ ] 35-4: _[Projeto - Tech News]()_
+- [ ] 34-1: _Arquitetura de Redes_
+- [ ] 34-2: _Redes de Computadores, ferramentas e segurança_
+- [ ] 34-3: _Raspagem de Dados_
+- [ ] 34-4: _[Projeto - Tech News]()_
 
-##### Bloco 36: [Algoritmos]()
+##### Bloco 35: [Algoritmos]()
 
-- [ ] 36-1: _Complexidade de Algoritmos_
-- [ ] 36-2: _Recursividade e Estratégias para solução de problemas_
-- [ ] 36-3: _Algoritmos de ordenação e busca_
-- [ ] 36-4:  _[Projeto - Algoritmos]()_
+- [ ] 35-1: _Complexidade de Algoritmos_
+- [ ] 35-2: _Recursividade e Estratégias para solução de problemas_
+- [ ] 35-3: _Algoritmos de ordenação e busca_
+- [ ] 35-4:  _[Projeto - Algoritmos]()_
 
-##### Bloco 37: [Estrutura de Dados I: Arrays, Hashmaps e Sets]()
+##### Bloco 36: [Estrutura de Dados I: Arrays, Hashmaps e Sets]()
 
-- [ ] 37-1: _Arquitetura de Computadores_
-- [ ] 37-2: _Arrays_
-- [ ] 37-3: _Hashmap e Dict_
-- [ ] 37-4: _Set_
-- [ ] 37-5: _[Projeto - Restaurant Orders]()_
+- [ ] 36-1: _Arquitetura de Computadores_
+- [ ] 36-2: _Arrays_
+- [ ] 36-3: _Hashmap e Dict_
+- [ ] 36-4: _Set_
+- [ ] 36-5: _[Projeto - Restaurant Orders]()_
 
-##### Bloco 38: [Estrutura de Dados II: Listas, Filas e Pilhas]()
+##### Bloco 37: [Estrutura de Dados II: Listas, Filas e Pilhas]()
 
-- [ ] 38-1: _Nó e Listas Encadeadas_
-- [ ] 38-2: _Pilhas e Filas_
-- [ ] 38-3: _[Projeto - TING - Trybe Is Not Google]()_
+- [ ] 37-1: _Nó e Listas Encadeadas_
+- [ ] 37-2: _Pilhas e Filas_
+- [ ] 37-3: _[Projeto - TING - Trybe Is Not Google]()_
