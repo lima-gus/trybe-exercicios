@@ -199,8 +199,8 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 ##### Bloco 28: [Programação Orientada a Objetos (POO) e SOLID]()
 
 - [x] 28-1: _Introdução à Orientação a Objetos_
-- [ ] 28-2: _Herança e Interfaces_
-- [ ] 28-3: _Polimorfismo_
+- [x] 28-2: _Herança e Interfaces_
+- [x] 28-3: _Polimorfismo_
 - [ ] 28-4: _SOLID - Introdução e Princípios S, O e D_
 - [ ] 28-5: _SOLID - Princípios L e I_
 - [ ] 28-6: _[Projeto - Trybers and Dragons]()_
@@ -217,8 +217,8 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ##### Bloco 30: [MongoDB com Node.js e POO]()
 
-- [ ] 30-1: _MongoDB e arquitetura MSC_
-- [ ] 30-2: _mongoDB e POO_
+- [ ] 30-1: _MongoDB e Arquitetura MSC_
+- [ ] 30-2: _MongoDB e POO_
 - [ ] 30-3: _[Projeto - Car Shop]()_
 
 ##### Bloco 31: [MasterClass - VPS, CI/CD]()
