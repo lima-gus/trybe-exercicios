@@ -201,7 +201,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 28-1: _Introdução à Orientação a Objetos_
 - [x] 28-2: _Herança e Interfaces_
 - [x] 28-3: _Polimorfismo_
-- [ ] 28-4: _SOLID - Introdução e Princípios S, O e D_
+- [x] 28-4: _SOLID - Introdução e Princípios S, O e D_
 - [ ] 28-5: _SOLID - Princípios L e I_
 - [ ] 28-6: _[Projeto - Trybers and Dragons]()_
 - [ ] 28-7: _[Projeto - TFC - Trybe Futebol Clube]()_
