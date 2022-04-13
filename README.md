@@ -203,7 +203,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 28-3: _Polimorfismo_
 - [x] 28-4: _SOLID - Introdução e Princípios S, O e D_
 - [x] 28-5: _SOLID - Princípios L e I_
-- [ ] 28-6: _[Projeto - Trybers and Dragons]()_
+- [x] 28-6: _[Projeto - Trybers and Dragons](https://github.com/tryber/sd-015-a-project-trybers-and-dragons/pull/17#issuecomment-1096348015)_
 - [ ] 28-7: _[Projeto - TFC - Trybe Futebol Clube]()_
 
 ##### Bloco 29: [Introdução ao MongoDB]()
