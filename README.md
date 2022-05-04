@@ -210,7 +210,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 - [ ] 29-1: _MongoDB - Introdução_
 - [ ] 29-2: _Filter Operators_
-- [ ] 29-3: _Operador de consulta_
+- [ ] 29-3: _Operadores de consulta_
 - [ ] 29-4: _Updates Simples_
 - [ ] 29-5: _Updates Complexos - Arrays_
 - [ ] 29-6: _[Projeto - Commerce]()_
@@ -221,14 +221,14 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [ ] 30-2: _MongoDB e POO_
 - [ ] 30-3: _[Projeto - Car Shop]()_
 
-##### Bloco 31: [MasterClass - VPS, CI/CD]()
+##### Bloco 31: [Projeto Final de Back-end]()
 
-- [ ] 31-1: _Dia 1_ 
-- [ ] 31-2: _Dia 2_
+- [ ] 31-1: _[Projeto - App de Delivery]()_
 
-##### Bloco 32: [Projeto Final de Back-end]()
+##### Bloco 32: [MasterClass - VPS, CI/CD]()
 
-- [ ] 32-1: _[Projeto - App de Delivery]()_
+- [ ] 32-1: _Dia 1_ 
+- [ ] 32-2: _Dia 2_
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
@@ -239,11 +239,11 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [ ] 33-3: _Testes_
 - [ ] 33-4: _[Projeto - Job Insights]()_
 
-##### Bloco 34: [Programaçao Orientada a Objetos e Padrões de Projetos]()
+##### Bloco 34: [Padrões de Projetos]()
 
-- [ ] 34-1: _Introdução à programação orientada a objetos_
-- [ ] 34-2: _Herança, Composição e Interfaces_
-- [ ] 34-3: _Padrões de projeto_
+- [ ] 34-1: _POO em Python_
+- [ ] 34-2: _Padrões - Iterator, Adapter, Strategy_
+- [ ] 34-3: _Padrões - Decorator, Observer, Factory_
 - [ ] 34-4: _[Projeto - Relatórios de Estoque]()_
 
 ##### Bloco 35: [Redes e Raspagem de Dados]()
