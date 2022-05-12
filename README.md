@@ -204,14 +204,14 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 28-4: _SOLID - Introdução e Princípios S, O e D_
 - [x] 28-5: _SOLID - Princípios L e I_
 - [x] 28-6: _[Projeto - Trybers and Dragons](https://github.com/tryber/sd-015-a-project-trybers-and-dragons/pull/17#issuecomment-1096348015)_
-- [ ] 28-7: _[Projeto - TFC - Trybe Futebol Clube]()_
+- [x] 28-7: _[Projeto - TFC - Trybe Futebol Clube](https://github.com/tryber/sd-015-a-trybe-futebol-clube/pull/15#issuecomment-1123491171)_
 
 ##### Bloco 29: [Introdução ao MongoDB]()
 
-- [ ] 29-1: _MongoDB - Introdução_
-- [ ] 29-2: _Filter Operators_
-- [ ] 29-3: _Operadores de consulta_
-- [ ] 29-4: _Updates Simples_
+- [x] 29-1: _MongoDB - Introdução_
+- [x] 29-2: _Filter Operators_
+- [x] 29-3: _Operadores de consulta_
+- [x] 29-4: _Updates Simples_
 - [ ] 29-5: _Updates Complexos - Arrays_
 - [ ] 29-6: _[Projeto - Commerce]()_
 
