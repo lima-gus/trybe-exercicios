@@ -219,7 +219,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 - [x] 30-1: _MongoDB e Arquitetura MSC_
 - [x] 30-2: _MongoDB e POO_
-- [ ] 30-3: _[Projeto - Car Shop]()_
+- [x] 30-3: _[Projeto - Car Shop](https://github.com/tryber/sd-015-a-project-car-shop/pull/13#issuecomment-1147019271)_
 
 ##### Bloco 31: [Projeto Final de Back-end]()
 
