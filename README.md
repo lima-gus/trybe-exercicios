@@ -223,7 +223,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ##### Bloco 31: [Projeto Final de Back-end]()
 
-- [ ] 31-1: _[Projeto - App de Delivery]()_
+- [ ] 31-1: _[Projeto em Grupo - App de Delivery]()_
 
 ##### Bloco 32: [MasterClass - VPS, CI/CD]()
 
