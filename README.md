@@ -227,8 +227,8 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ##### Bloco 32: [MasterClass - VPS, CI/CD]()
 
-- [ ] 32-1: _Dia 1_ 
-- [ ] 32-2: _Dia 2_
+- [x] 32-1: _Dia 1 - VPS_ 
+- [ ] 32-2: _Dia 2 - CI/CD_
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
