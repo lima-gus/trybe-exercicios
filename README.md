@@ -134,7 +134,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 ##### Bloco 19: [Projeto Final de Front-end]()
 - [x] 19-1: _[Projeto em Grupo - App de Receitas](https://github.com/tryber/sd-015-a-project-recipes-app/pull/39#issuecomment-1014043808)_
 
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+## Desenvolvimento Back-end :white_check_mark:
 
 ##### Bloco 20: [Docker: Utilizando Containers]()
 
