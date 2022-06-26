@@ -223,7 +223,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ##### Bloco 31: [Projeto Final de Back-end]()
 
-- [x] 31-1: _[Projeto em Grupo - App de Delivery]()_
+- [x] 31-1: _[Projeto em Grupo - App de Delivery](https://github.com/tryber/sd-015-a-project-delivery-app/pull/2#issuecomment-1153226931)_
 
 ##### Bloco 32: [MasterClass - VPS, CI/CD]()
 
@@ -248,10 +248,9 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ##### Bloco 35: [Redes e Raspagem de Dados]()
 
-- [ ] 35-1: _Arquitetura de Redes_
-- [ ] 35-2: _Redes de Computadores, ferramentas e segurança_
-- [ ] 35-3: _Raspagem de Dados_
-- [ ] 35-4: _[Projeto - Tech News]()_
+- [ ] 35-1: _Arquitetura de redes, ferramentas e segurança_
+- [ ] 35-2: _Raspagem de Dados_
+- [ ] 35-3: _[Projeto - Tech News]()_
 
 ##### Bloco 36: [Algoritmos]()
 
@@ -260,16 +259,16 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [ ] 36-3: _Algoritmos de ordenação e busca_
 - [ ] 36-4:  _[Projeto - Algoritmos]()_
 
-##### Bloco 37: [Estrutura de Dados I: Arrays, Hashmaps e Sets]()
+##### Bloco 37: [Estrutura de Dados I: Arrays, Listas, Filas e Pilhas]()
 
 - [ ] 37-1: _Arquitetura de Computadores_
 - [ ] 37-2: _Arrays_
-- [ ] 37-3: _Hashmap e Dict_
-- [ ] 37-4: _Set_
-- [ ] 37-5: _[Projeto - Restaurant Orders]()_
+- [ ] 37-3: _Nó e Listas Encadeadas_
+- [ ] 37-4: _Pilhas e Filas_
+- [ ] 37-5: _[Projeto - TING - Trybe Is Not Google]()_
 
-##### Bloco 38: [Estrutura de Dados II: Listas, Filas e Pilhas]()
+##### Bloco 38: [Estrutura de Dados II: Hashmaps e Sets]()
 
-- [ ] 38-1: _Nó e Listas Encadeadas_
-- [ ] 38-2: _Pilhas e Filas_
-- [ ] 38-3: _[Projeto - TING - Trybe Is Not Google]()_
+- [ ] 38-1: _Hashmap e Dict_
+- [ ] 38-2: _Set_
+- [ ] 38-3: _[Projeto - Restaurant Orders]()_
