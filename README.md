@@ -232,9 +232,9 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
-##### Bloco 33: [Introdução à Python]()
+##### Bloco 33: [Introdução à Python](https://github.com/lima-gus/trybe-exercicios/tree/main/04-ciencia-da-computacao/33.1-introducao-a-python)
 
-- [ ] 33-1: _Aprendendo Python_
+- [x] 33-1: _Aprendendo Python_
 - [ ] 33-2: _Entrada e Saída de Dados_
 - [ ] 33-3: _Testes_
 - [ ] 33-4: _[Projeto - Job Insights]()_
