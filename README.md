@@ -241,7 +241,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ##### Bloco 34: [Padrões de Projetos]()
 
-- [ ] 34-1: _POO em Python_
+- [x] 34-1: _POO em Python_
 - [ ] 34-2: _Padrões - Iterator, Adapter, Strategy_
 - [ ] 34-3: _Padrões - Decorator, Observer, Factory_
 - [ ] 34-4: _[Projeto - Relatórios de Estoque]()_
