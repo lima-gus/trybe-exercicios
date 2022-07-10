@@ -237,13 +237,13 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 33-1: _Aprendendo Python_
 - [x] 33-2: _Entrada e Saída de Dados_
 - [x] 33-3: _Testes_
-- [ ] 33-4: _[Projeto - Job Insights]()_
+- [x] 33-4: _[Projeto - Job Insights](https://github.com/tryber/sd-015-a-project-job-insights/pull/8#issuecomment-1179814715)_
 
 ##### Bloco 34: [Padrões de Projetos]()
 
 - [x] 34-1: _POO em Python_
 - [x] 34-2: _Padrões - Iterator, Adapter, Strategy_
-- [ ] 34-3: _Padrões - Decorator, Observer, Factory_
+- [x] 34-3: _Padrões - Decorator, Observer, Factory_
 - [ ] 34-4: _[Projeto - Relatórios de Estoque]()_
 
 ##### Bloco 35: [Redes e Raspagem de Dados]()
