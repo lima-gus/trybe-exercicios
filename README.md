@@ -248,7 +248,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ##### Bloco 35: [Redes e Raspagem de Dados]()
 
-- [ ] 35-1: _Arquitetura de redes, ferramentas e segurança_
+- [x] 35-1: _Arquitetura de redes, ferramentas e segurança_
 - [ ] 35-2: _Raspagem de Dados_
 - [ ] 35-3: _[Projeto - Tech News]()_
 
