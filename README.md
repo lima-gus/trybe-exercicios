@@ -244,12 +244,12 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 34-1: _POO em Python_
 - [x] 34-2: _Padrões - Iterator, Adapter, Strategy_
 - [x] 34-3: _Padrões - Decorator, Observer, Factory_
-- [ ] 34-4: _[Projeto - Relatórios de Estoque]()_
+- [x] 34-4: _[Projeto - Inventory Report]()_
 
 ##### Bloco 35: [Redes e Raspagem de Dados]()
 
 - [x] 35-1: _Arquitetura de redes, ferramentas e segurança_
-- [ ] 35-2: _Raspagem de Dados_
+- [x] 35-2: _Raspagem de Dados_
 - [ ] 35-3: _[Projeto - Tech News]()_
 
 ##### Bloco 36: [Algoritmos]()
