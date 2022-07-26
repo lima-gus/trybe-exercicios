@@ -250,13 +250,13 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 - [x] 35-1: _Arquitetura de redes, ferramentas e segurança_
 - [x] 35-2: _Raspagem de Dados_
-- [ ] 35-3: _[Projeto - Tech News]()_
+- [x] 35-3: _[Projeto - Tech News](https://github.com/tryber/sd-015-a-tech-news/pull/15#issuecomment-1196004726)_
 
 ##### Bloco 36: [Algoritmos]()
 
-- [ ] 36-1: _Complexidade de Algoritmos_
-- [ ] 36-2: _Recursividade e Estratégias para solução de problemas_
-- [ ] 36-3: _Algoritmos de ordenação e busca_
+- [x] 36-1: _Complexidade de Algoritmos_
+- [x] 36-2: _Recursividade e Estratégias para solução de problemas_
+- [x] 36-3: _Algoritmos de ordenação e busca_
 - [ ] 36-4:  _[Projeto - Algoritmos]()_
 
 ##### Bloco 37: [Estrutura de Dados I: Arrays, Listas, Filas e Pilhas]()
