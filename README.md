@@ -56,7 +56,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 7-2: _JavaScript ES6 - Objects_
 - [x] 7-3: _Testes unitários em JavaScript_
-- [x] 7-4: _[Projeto - JavaScript Testes Unitários](https://github.com/tryber/sd-015-a-project-js-unit-tests/pull/27#issuecomment-913197421)_
+- [x] 7-4: _[Projeto - JavaScript Unit Tests](https://github.com/tryber/sd-015-a-project-js-unit-tests/pull/27#issuecomment-913197421)_
 
 ##### Bloco 8: [Higher Order Functions do JavaScript ES6](https://github.com/lima-gus/trybe-exercicios/tree/main/01-fundamentos/bloco-08-higher-order-functions-js-es6)
 
@@ -71,14 +71,14 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 - [x] 9-1: _JavaScript Assíncrono e Callbacks_
 - [x] 9-2: _JavaScript Promises_
-- [x] 9-3: _[Projeto - Carrinho de Compras](https://github.com/tryber/sd-015-a-project-shopping-cart/pull/20#issuecomment-927177942)_
+- [x] 9-3: _[Projeto - Shopping Cart](https://github.com/tryber/sd-015-a-project-shopping-cart/pull/20#issuecomment-927177942)_
 
 ##### Bloco 10: [Testes automatizados com Jest](https://github.com/lima-gus/trybe-exercicios/tree/main/01-fundamentos/bloco-10-testes-automatizados-com-jest)
 
 - [x] 10-1: _Primeiros passos no Jest_
 - [x] 10-2: _Jest - Testes Assíncronos_
 - [x] 10-3: _Jest - Simulando comportamentos_
-- [x] 10-4: _[Projeto - Jest Assíncrono e Mocking](https://github.com/tryber/sd-015-a-project-jest/pull/32#issuecomment-928343393)_
+- [x] 10-4: _[Projeto - Asynchronous Jest and Mocking](https://github.com/tryber/sd-015-a-project-jest/pull/32#issuecomment-928343393)_
 
 ## Desenvolvimento Front-end :white_check_mark:
 
@@ -122,14 +122,14 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 16-6: _[Projeto - Trybe Wallet](https://github.com/tryber/sd-015-a-project-trybewallet/pull/9#issuecomment-982239925)_
 
 ##### Bloco 17: [Projeto React - Trivia]()
-- [x] 17-1: _[Projeto em Grupo - Jogo de Trivia React & Redux](https://github.com/tryber/sd-015-a-project-trivia-react-redux/pull/24#issuecomment-980453414)_
+- [x] 17-1: _[Projeto em Grupo - React & Redux Trivia Game](https://github.com/tryber/sd-015-a-project-trivia-react-redux/pull/24#issuecomment-980453414)_
 
 ##### Bloco 18:  [Context API & React Hooks]()
 
 - [x] 18-1: _Context API do React_
 - [x] 18-2: _React Hooks - useState e useContext_
 - [x] 18-3: _React Hooks - useEffect e Hooks customizados_
-- [x] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks](https://github.com/tryber/sd-015-a-project-starwars-planets-search/pull/19#issuecomment-1004478097)_
+- [x] 18-4: _[Projeto - StarWars Datatable with Context API and Hooks](https://github.com/tryber/sd-015-a-project-starwars-planets-search/pull/19#issuecomment-1004478097)_
 
 ##### Bloco 19: [Projeto Final de Front-end]()
 - [x] 19-1: _[Projeto em Grupo - App de Receitas](https://github.com/tryber/sd-015-a-project-recipes-app/pull/39#issuecomment-1014043808)_
@@ -181,7 +181,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 25-2: _ORM - Associations_
 - [x] 25-3: _JWT - JSON Web Token_
 - [x] 25-4: _Testando APIs com Testes de Integração_
-- [x] 25-5: _[Projeto - API de Blogs](https://github.com/tryber/sd-015-a-project-blogs-api/pull/29#issuecomment-1073407839)_
+- [x] 25-5: _[Projeto - Blogs API](https://github.com/tryber/sd-015-a-project-blogs-api/pull/29#issuecomment-1073407839)_
 
 ##### Bloco 26: [Deployment]()
 
@@ -244,7 +244,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 34-1: _POO em Python_
 - [x] 34-2: _Padrões - Iterator, Adapter, Strategy_
 - [x] 34-3: _Padrões - Decorator, Observer, Factory_
-- [x] 34-4: _[Projeto - Inventory Report]()_
+- [x] 34-4: _[Projeto - Inventory Report](https://github.com/tryber/sd-015-a-inventory-report/pull/14#issuecomment-1188374953)_
 
 ##### Bloco 35: [Redes e Raspagem de Dados]()
 
@@ -257,11 +257,11 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 36-1: _Complexidade de Algoritmos_
 - [x] 36-2: _Recursividade e Estratégias para solução de problemas_
 - [x] 36-3: _Algoritmos de ordenação e busca_
-- [ ] 36-4:  _[Projeto - Algoritmos]()_
+- [ ] 36-4:  _[Projeto - Algorithms]()_
 
 ##### Bloco 37: [Estrutura de Dados I: Arrays, Listas, Filas e Pilhas]()
 
-- [ ] 37-1: _Arquitetura de Computadores_
+- [x] 37-1: _Arquitetura de Computadores_
 - [ ] 37-2: _Arrays_
 - [ ] 37-3: _Nó e Listas Encadeadas_
 - [ ] 37-4: _Pilhas e Filas_
