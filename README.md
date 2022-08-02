@@ -262,7 +262,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 ##### Bloco 37: [Estrutura de Dados I: Arrays, Listas, Filas e Pilhas]()
 
 - [x] 37-1: _Arquitetura de Computadores_
-- [ ] 37-2: _Arrays_
+- [x] 37-2: _Arrays_
 - [ ] 37-3: _Nó e Listas Encadeadas_
 - [ ] 37-4: _Pilhas e Filas_
 - [ ] 37-5: _[Projeto - TING - Trybe Is Not Google]()_
