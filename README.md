@@ -257,13 +257,13 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 36-1: _Complexidade de Algoritmos_
 - [x] 36-2: _Recursividade e Estratégias para solução de problemas_
 - [x] 36-3: _Algoritmos de ordenação e busca_
-- [ ] 36-4:  _[Projeto - Algorithms]()_
+- [x] 36-4:  _[Projeto - Algorithms](https://github.com/tryber/sd-015-a-project-algorithms/pull/27#issuecomment-1201730831)_
 
 ##### Bloco 37: [Estrutura de Dados I: Arrays, Listas, Filas e Pilhas]()
 
 - [x] 37-1: _Arquitetura de Computadores_
 - [x] 37-2: _Arrays_
-- [ ] 37-3: _Nó e Listas Encadeadas_
+- [x] 37-3: _Nó e Listas Encadeadas_
 - [ ] 37-4: _Pilhas e Filas_
 - [ ] 37-5: _[Projeto - TING - Trybe Is Not Google]()_
 
