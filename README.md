@@ -270,5 +270,5 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 ##### Bloco 38: [Estrutura de Dados II: Hashmaps e Sets]()
 
 - [x] 38-1: _Hashmap e Dict_
-- [ ] 38-2: _Set_
+- [x] 38-2: _Set_
 - [ ] 38-3: _[Projeto - Restaurant Orders]()_
