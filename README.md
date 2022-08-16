@@ -230,7 +230,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 32-1: _Dia 1 - VPS_ 
 - [x] 32-2: _Dia 2 - CI/CD_
 
-## Ciência da Computação :hourglass_flowing_sand:
+## Ciência da Computação :white_check_mark:
 
 ##### Bloco 33: [Introdução à Python](https://github.com/lima-gus/trybe-exercicios/tree/main/04-ciencia-da-computacao/33.1-introducao-a-python)
 
@@ -271,4 +271,4 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 - [x] 38-1: _Hashmap e Dict_
 - [x] 38-2: _Set_
-- [ ] 38-3: _[Projeto - Restaurant Orders]()_
+- [x] 38-3: _[Projeto - Restaurant Orders](https://github.com/tryber/sd-015-a-restaurant-orders/pull/27#issuecomment-1216290123)_
